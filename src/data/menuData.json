@@ -1,0 +1,232 @@
+{
+  "categories": [
+    {
+      "name": "Pizza",
+      "image": "./images/category/pizza.gif",
+      "url": "https://www.pizza-capone.cz/pizza/",
+      "products": [
+        {
+          "name": "2 - Margherita",
+          "description": "tomati, sýr (A1, A7)",
+          "image": "./images/product/pizza-2-margherita.gif",
+          "url": "https://www.pizza-capone.cz/pizza/margherita/",
+          "price": "159 Kč",
+          "sizes": {
+            "Ø 30 cm": "159 Kč",
+            "Ø 45 cm": "259 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "3 - Salami",
+          "description": "tomati, sýr, salám (A1, A7)",
+          "image": "./images/product/pizza-3-salami.gif",
+          "url": "https://www.pizza-capone.cz/pizza/salami/",
+          "price": "169 Kč",
+          "sizes": {
+            "Ø 30 cm": "169 Kč",
+            "Ø 45 cm": "269 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "46 - Cappone",
+          "description": "tomati, sýr, šunka, salám, feferony, žampiony, česnek, cibule (A1, A7)",
+          "image": "./images/product/pizza-46-cappone.gif",
+          "url": "https://www.pizza-capone.cz/pizza/cappone/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        }
+      ]
+    },
+    {
+      "name": "Spaghetti",
+      "image": "./images/category/spaghetti.gif",
+      "url": "https://www.pizza-capone.cz/spaghetti/",
+      "products": [
+        {
+          "name": "50 - Alla Carbonara",
+          "description": "slanina, vejce, smetana, směs strouhaných tvrdých sýrů (A1, A3, A7)",
+          "image": "./images/product/spaghetti-50-alla-carbonara.png",
+          "url": "https://www.pizza-capone.cz/spaghetti/alla-carbonara/",
+          "price": "169 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "51 - Alla Bolognese",
+          "description": "boloňská omáčka, sýr (A1, A3, A7, A9)",
+          "image": "./images/product/spaghetti-51-alla-bolognese.png",
+          "url": "https://www.pizza-capone.cz/spaghetti/alla-bolognese/",
+          "price": "169 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7, A9"
+        }
+      ]
+    },
+    {
+      "name": "Saláty",
+      "image": "./images/category/salaty.gif",
+      "url": "https://www.pizza-capone.cz/salaty/",
+      "products": [
+        {
+          "name": "75 - Cheff",
+          "description": "těstoviny, čínské zelí, kuřecí maso, rajčata, mozzarela, italský dresing (A1, A3, A7)",
+          "image": "./images/product/salaty-75-cheff.gif",
+          "url": "https://www.pizza-capone.cz/salaty/cheff/",
+          "price": "139 Kč",
+          "sizes": {},
+          "ingredients": [
+            {
+              "name": "Italský dresing",
+              "price": "20 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "79 - Alla Ceasar",
+          "description": "kuřecí nugety, slanina, l.salát, cherry rajčata, mrkev, olivy, Grana padano (A3, A7, A10)",
+          "image": "./images/product/salaty-79-alla-ceasar.png",
+          "url": "https://www.pizza-capone.cz/salaty/caesar/",
+          "price": "179 Kč",
+          "sizes": {},
+          "ingredients": [
+            {
+              "name": "Italský dresing",
+              "price": "20 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A3, A7, A10"
+        }
+      ]
+    }
+  ]
+}
