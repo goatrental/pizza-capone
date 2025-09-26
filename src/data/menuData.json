@@ -67,6 +67,86 @@
             {
               "name": "rajčata",
               "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
             }
           ],
           "sauces": [],
@@ -90,6 +170,10 @@
             {
               "name": "veganský sýr",
               "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
             },
             {
               "name": "šunka",
@@ -116,7 +200,6273 @@
               "price": "15 Kč"
             },
             {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
               "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "4 - Peperoni",
+          "description": "tomati, sýr, šunka, feferóny (A1, A7)",
+          "image": "./images/product/pizza-4-peperoni.gif",
+          "url": "https://www.pizza-capone.cz/pizza/peperoni/",
+          "price": "179 Kč",
+          "sizes": {
+            "Ø 30 cm": "179 Kč",
+            "Ø 45 cm": "269 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "5 - Funghi",
+          "description": "tomati, sýr, žampiony (A1, A7)",
+          "image": "./images/product/pizza-5-funghi.gif",
+          "url": "https://www.pizza-capone.cz/pizza/funghi/",
+          "price": "169 Kč",
+          "sizes": {
+            "Ø 30 cm": "169 Kč",
+            "Ø 45 cm": "269 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "6 - Prosciutto cotto",
+          "description": "tomati, sýr, šunka (A1, A7)",
+          "image": "./images/product/pizza-6-prosciutto-cotto.gif",
+          "url": "https://www.pizza-capone.cz/pizza/prosciutto-cotto/",
+          "price": "169 Kč",
+          "sizes": {
+            "Ø 30 cm": "169 Kč",
+            "Ø 45 cm": "269 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "7 - Tonno",
+          "description": "tomati, sýr, tuňák, cibule (A1, A4, A7)",
+          "image": "./images/product/pizza-7-tonno.gif",
+          "url": "https://www.pizza-capone.cz/pizza/tonno/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A4, A7"
+        },
+        {
+          "name": "8 - Alpina",
+          "description": "tomati, sýr, žampiony, šunka (A1, A7)",
+          "image": "./images/product/pizza-8-alpina.gif",
+          "url": "https://www.pizza-capone.cz/pizza/alpino/",
+          "price": "179 Kč",
+          "sizes": {
+            "Ø 30 cm": "179 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "9 - De la Casa",
+          "description": "tomati, sýr, salám, žampiony, cibule (A1, A7)",
+          "image": "./images/product/pizza-9-de-la-casa.gif",
+          "url": "https://www.pizza-capone.cz/pizza/de-la-casa/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "10 - Calzone - kapsa",
+          "description": "tomati, sýr, cibule, slanina (A1, A7)",
+          "image": "./images/product/pizza-10-calzone-kapsa.gif",
+          "url": "https://www.pizza-capone.cz/pizza/calzone/",
+          "price": "184 Kč",
+          "sizes": {
+            "Ø 30 cm": "184 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "11 - Hawai",
+          "description": "tomati, sýr, ananas, šunka (A1, A7)",
+          "image": "./images/product/pizza-11-hawai.gif",
+          "url": "https://www.pizza-capone.cz/pizza/hawai/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "12 - Napoli",
+          "description": "tomati, sýr, žampiony, tuňák, cibule (A1, A4, A7)",
+          "image": "./images/product/pizza-12-napoli.gif",
+          "url": "https://www.pizza-capone.cz/pizza/napoli/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A4, A7"
+        },
+        {
+          "name": "13 - Vegetariano",
+          "description": "tomati, sýr, žampiony, paprika, rajčata, olivy (A1, A7)",
+          "image": "./images/product/pizza-13-vegetariano.gif",
+          "url": "https://www.pizza-capone.cz/pizza/vegetariano/",
+          "price": "179 Kč",
+          "sizes": {
+            "Ø 30 cm": "179 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "14 - Carbonara",
+          "description": "tomati, sýr, vejce, slanina (A1, A3, A7)",
+          "image": "./images/product/pizza-14-carbonara.gif",
+          "url": "https://www.pizza-capone.cz/pizaa/carbonara/",
+          "price": "184 Kč",
+          "sizes": {
+            "Ø 30 cm": "184 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "15 - Italia",
+          "description": "tomati, sýr, šunka, tuňák, olivy (A1, A4, A7)",
+          "image": "./images/product/pizza-15-italia.gif",
+          "url": "https://www.pizza-capone.cz/pizza/italia/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A4, A7"
+        },
+        {
+          "name": "16 - Gorgonzola",
+          "description": "tomati, gorgonzola, prosciutto crudo-parmská šunka (A1, A7)",
+          "image": "./images/product/pizza-16-gorgonzola.gif",
+          "url": "https://www.pizza-capone.cz/pizza/gorgonzola/",
+          "price": "239 Kč",
+          "sizes": {
+            "Ø 30 cm": "239 Kč",
+            "Ø 45 cm": "351 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "17 - Alla Chef",
+          "description": "tomati, sýr, šunka, česnek, vejce, žampiony (A1, A3, A7)",
+          "image": "./images/product/pizza-17-alla-chef.gif",
+          "url": "https://www.pizza-capone.cz/pizza/alla-chef/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "18 - Alla Italia",
+          "description": "tomati, sýr, žampiony, salám, paprika, vejce (A1, A3, A7)",
+          "image": "./images/product/pizza-18-alla-italia.gif",
+          "url": "https://www.pizza-capone.cz/pizza/alla-italia/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "19 - Modena",
+          "description": "tomati, sýr, šunka, tuňák, paprika, rajčata (A1, A4, A7)",
+          "image": "./images/product/pizza-19-modena.gif",
+          "url": "https://www.pizza-capone.cz/pizza/modena/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A4, A7"
+        },
+        {
+          "name": "20 - Camillo",
+          "description": "tomati, sýr, šunka, salám, paprika, cibule (A1, A7)",
+          "image": "./images/product/pizza-20-camillo.gif",
+          "url": "https://www.pizza-capone.cz/pizza/camillo/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "21 - Spinaci",
+          "description": "tomati, sýr, salám, slanina, špenát, vejce (A1, A3, A7)",
+          "image": "./images/product/pizza-21-spinaci.gif",
+          "url": "https://www.pizza-capone.cz/pizza/spinaci/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "22 - Quattro Formaggi",
+          "description": "tomati, niva, uzený sýr, eidam, mozzarela (A1, A7)",
+          "image": "./images/product/pizza-22-quattro-formaggi.gif",
+          "url": "https://www.pizza-capone.cz/pizza/quattro-formaggi/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "23 - Speciale",
+          "description": "tomati, sýr, šunka, salám, paprika, olivy (A1, A7)",
+          "image": "./images/product/pizza-23-speciale.gif",
+          "url": "https://www.pizza-capone.cz/pizza/speciale/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "24 - Marina",
+          "description": "tomati, sýr, tuňák, losos, olivy, česnek, cibule, směs strouhaných tvrdých sýrů (A1, A4, A7)",
+          "image": "./images/product/pizza-24-marina.gif",
+          "url": "https://www.pizza-capone.cz/pizza/marina/",
+          "price": "229 Kč",
+          "sizes": {
+            "Ø 30 cm": "229 Kč",
+            "Ø 45 cm": "351 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A4, A7"
+        },
+        {
+          "name": "25 - Frutti di mare",
+          "description": "tomati, sýr, plody moře (A1, A2, A7, A14)",
+          "image": "./images/product/pizza-25-frutti-di-mare.gif",
+          "url": "https://www.pizza-capone.cz/pizza/frutti-di-mare/",
+          "price": "229 Kč",
+          "sizes": {
+            "Ø 30 cm": "229 Kč",
+            "Ø 45 cm": "351 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A2, A7, A14"
+        },
+        {
+          "name": "26 - Monza",
+          "description": "tomati, sýr, losos, niva, olivy (A1, A4, A7)",
+          "image": "./images/product/pizza-26-monza.gif",
+          "url": "https://www.pizza-capone.cz/pizza/monza/",
+          "price": "229 Kč",
+          "sizes": {
+            "Ø 30 cm": "229 Kč",
+            "Ø 45 cm": "351 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A4, A7"
+        },
+        {
+          "name": "27 - Sicilia",
+          "description": "tomati, sýr, špenát, vejce, cibule (A1, A3, A7)",
+          "image": "./images/product/pizza-27-sicilia.gif",
+          "url": "https://www.pizza-capone.cz/pizza/sicilia/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "28 - El Passo",
+          "description": "tomati, sýr, klobása, kukuřice, česnek, feferony, slanina, chilli, paprika, rajčata (A1, A7)",
+          "image": "./images/product/pizza-28-el-passo.gif",
+          "url": "https://www.pizza-capone.cz/pizza/el-passo/",
+          "price": "219 Kč",
+          "sizes": {
+            "Ø 30 cm": "219 Kč",
+            "Ø 45 cm": "311 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "29 - Giovanni",
+          "description": "tomati, sýr, šunka, salám, tuňák (A1, A4, A7)",
+          "image": "./images/product/pizza-29-giovanni.gif",
+          "url": "https://www.pizza-capone.cz/pizza/giovanni/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A4, A7"
+        },
+        {
+          "name": "30 - Cartiniera",
+          "description": "tomati, sýr, slanina, cibule, žampiony, rajčata, oregáno (A1, A7)",
+          "image": "./images/product/pizza-30-cartiniera.gif",
+          "url": "https://www.pizza-capone.cz/pizza/cartiniera-kapsa/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "31 - Maranelo",
+          "description": "tomati, sýr, šunka, žampiony, rajčata (A1, A7)",
+          "image": "./images/product/pizza-31-maranelo.gif",
+          "url": "https://www.pizza-capone.cz/pizza/maranelo/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "32 - Quattro Stagioni",
+          "description": "tomati, sýr, ¼ šunka, ¼ salám, ¼ žampiony, ¼ rajčata, olivy (A1, A7)",
+          "image": "./images/product/pizza-32-quattro-stagioni.gif",
+          "url": "https://www.pizza-capone.cz/pizza/quattro-stagioni/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "301 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "33 - Bolognese",
+          "description": "tomati, sýr, Bolognese omáčka (z mletého masa, cibule, rajče) (A1, A7, A9)",
+          "image": "./images/product/pizza-33-bolognese.gif",
+          "url": "https://www.pizza-capone.cz/pizza/bolognese/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "301 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7, A9"
+        },
+        {
+          "name": "34 - Tomato",
+          "description": "tomati, sýr, mozzarela, cibule (A1, A7)",
+          "image": "./images/product/pizza-34-tomato.gif",
+          "url": "https://www.pizza-capone.cz/pizza/tomato/",
+          "price": "179 Kč",
+          "sizes": {
+            "Ø 30 cm": "179 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "35 - Romana",
+          "description": "tomati, sýr, salám, chilli, rajčata, paprika, kukuřice, vejce (A1, A3, A7)",
+          "image": "./images/product/pizza-35-romana.gif",
+          "url": "https://www.pizza-capone.cz/pizza/romana/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "311 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "36 - Pilis",
+          "description": "tomati, sýr, slanina, feferóny (A1, A7)",
+          "image": "./images/product/pizza-36-pilis.gif",
+          "url": "https://www.pizza-capone.cz/pizza/pilis/",
+          "price": "184 Kč",
+          "sizes": {
+            "Ø 30 cm": "184 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "37 - Capriciosa",
+          "description": "tomati, sýr, šunka, žampiony, artyčoky, olivy (A1, A7)",
+          "image": "./images/product/pizza-37-capriciosa.gif",
+          "url": "https://www.pizza-capone.cz/pizza/capriciosa/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "38 - Calabria",
+          "description": "tomati, sýr, kuřecí maso, niva, směs strouhaných tvrdých sýrů (A1, A7)",
+          "image": "./images/product/pizza-38-calabria.gif",
+          "url": "https://www.pizza-capone.cz/pizza/calabria/",
+          "price": "229 Kč",
+          "sizes": {
+            "Ø 30 cm": "229 Kč",
+            "Ø 45 cm": "331 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "39 - Milano",
+          "description": "tomati, sýr, prosciutto crudo-parmská šunka, kuřecí maso, směs strouhaných tvrdých sýrů (A1, A7)",
+          "image": "./images/product/pizza-39-milano.gif",
+          "url": "https://www.pizza-capone.cz/pizza/milano/",
+          "price": "229 Kč",
+          "sizes": {
+            "Ø 30 cm": "229 Kč",
+            "Ø 45 cm": "331 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "40 - Bucato",
+          "description": "tomati, mozzarela, olivy (A1, A7)",
+          "image": "./images/product/pizza-40-bucato.gif",
+          "url": "https://www.pizza-capone.cz/pizza/bucato/",
+          "price": "179 Kč",
+          "sizes": {
+            "Ø 30 cm": "179 Kč",
+            "Ø 45 cm": "281 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "41 - Lazio",
+          "description": "tomati, sýr, olivy, cibule, paprika (A1, A7)",
+          "image": "./images/product/pizza-41-lazio.gif",
+          "url": "https://www.pizza-capone.cz/pizza/lazio/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "42 - Monte Verdi",
+          "description": "tomati, sýr, kuřecí maso, rajče, kukuřice, vejce (A1, A3, A7)",
+          "image": "./images/product/pizza-42-monte-verdi.gif",
+          "url": "https://www.pizza-capone.cz/pizza/monte-verdi/",
+          "price": "229 Kč",
+          "sizes": {
+            "Ø 30 cm": "229 Kč",
+            "Ø 45 cm": "331 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "43 - Al Cappone",
+          "description": "tomati, sýr, prosciutto crudo-parmská šunka, olivy, rajčata (A1, A7)",
+          "image": "./images/product/pizza-43-al-cappone.gif",
+          "url": "https://www.pizza-capone.cz/pizza/al-cappone/",
+          "price": "229 Kč",
+          "sizes": {
+            "Ø 30 cm": "229 Kč",
+            "Ø 45 cm": "331 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "44 - Pinocchio",
+          "description": "tomati, sýr, salám, šunka, feferóny (A1, A7)",
+          "image": "./images/product/pizza-44-pinocchio.gif",
+          "url": "https://www.pizza-capone.cz/pizza/pinocchio/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "45 - Capri",
+          "description": "tomati, šunka, salám, rajčata, feferony (A1, A7)",
+          "image": "./images/product/pizza-45-capri.gif",
+          "url": "https://www.pizza-capone.cz/pizza/capri/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "291 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
               "price": "45 Kč"
             }
           ],
@@ -143,20 +6493,426 @@
               "price": "79 Kč"
             },
             {
-              "name": "olivy",
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
               "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
             },
             {
               "name": "ananas",
               "price": "35 Kč"
             },
             {
-              "name": "tuňák",
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
               "price": "45 Kč"
             }
           ],
           "sauces": [],
           "attributes": "A1, A7"
+        },
+        {
+          "name": "47 - Rukola",
+          "description": "tomati, mozzarela, rukola, prosciutto crudo-parmská šunka (A1, A7)",
+          "image": "./images/product/pizza-47-rukola.png",
+          "url": "https://www.pizza-capone.cz/pizza/rukola/",
+          "price": "229 Kč",
+          "sizes": {
+            "Ø 30 cm": "229 Kč",
+            "Ø 45 cm": "331 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1, A7"
+        },
+        {
+          "name": "88 - Míchaná",
+          "description": "výběr ingrediencí dle Vašeho přání (A1)",
+          "image": "./images/product/pizza-88-michana.png",
+          "url": "https://www.pizza-capone.cz/pizza/michana/",
+          "price": "139 Kč",
+          "sizes": {
+            "Ø 30 cm": "139 Kč",
+            "Ø 45 cm": "211 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "sýr",
+              "price": "40 Kč"
+            },
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "salám",
+              "price": "40 Kč"
+            },
+            {
+              "name": "šunka",
+              "price": "40 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "tuňák",
+              "price": "45 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "slanina",
+              "price": "35 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "vejce",
+              "price": "20 Kč"
+            },
+            {
+              "name": "gorgonzola",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmská šunka",
+              "price": "45 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "niva",
+              "price": "45 Kč"
+            },
+            {
+              "name": "uzený sýr",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mozzarela",
+              "price": "45 Kč"
+            },
+            {
+              "name": "losos",
+              "price": "45 Kč"
+            },
+            {
+              "name": "ančovičky",
+              "price": "45 Kč"
+            },
+            {
+              "name": "parmazán",
+              "price": "45 Kč"
+            },
+            {
+              "name": "klobása",
+              "price": "40 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kuřecí maso",
+              "price": "45 Kč"
+            },
+            {
+              "name": "krevety",
+              "price": "45 Kč"
+            },
+            {
+              "name": "mušle",
+              "price": "45 Kč"
+            },
+            {
+              "name": "artyčok",
+              "price": "45 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A1"
         }
       ]
     },
@@ -186,6 +6942,166 @@
           "ingredients": [],
           "sauces": [],
           "attributes": "A1, A3, A7, A9"
+        },
+        {
+          "name": "52 - Aglio e Olio",
+          "description": "česnek, chilli paprička, olivový olej (A1, A3)",
+          "image": "./images/product/spaghetti-52-aglio-e-olio.png",
+          "url": "https://www.pizza-capone.cz/spaghetti/aglio-e-olio/",
+          "price": "159 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3"
+        },
+        {
+          "name": "53 - Cappone",
+          "description": "kuřecí maso, žampiony, smetana, sýr (A1, A3, A7)",
+          "image": "./images/product/spaghetti-53-cappone.png",
+          "url": "https://www.pizza-capone.cz/spaghetti/cappone/",
+          "price": "179 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "image": "./images/category/pasta.gif",
+      "url": "https://www.pizza-capone.cz/penne-rigate/",
+      "products": [
+        {
+          "name": "55 - Al Tonno",
+          "description": "tuňák, cibule, tomatová omáčka (A1, A3, A4)",
+          "image": "./images/product/pasta-55-al-tonno.png",
+          "url": "https://www.pizza-capone.cz/penne-rigate/al-tonno/",
+          "price": "179 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A4"
+        },
+        {
+          "name": "57 - Al Arabbiata",
+          "description": "česnek, chilli paprička, rajčatová omáčka (A1, A3)",
+          "image": "./images/product/pasta-57-al-arabbiata.png",
+          "url": "https://www.pizza-capone.cz/penne-rigate/al-arabbiata/",
+          "price": "169 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3"
+        },
+        {
+          "name": "58 - Alla Bolognese",
+          "description": "boloňská omáčka (A1, A3, A7, A9)",
+          "image": "./images/product/pasta-58-alla-bolognese.png",
+          "url": "https://www.pizza-capone.cz/penne-rigate/alla-bolognese/",
+          "price": "169 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7, A9"
+        },
+        {
+          "name": "60 - Pulcinella",
+          "description": "kuřecí prsa, žampiony, česnek, kari, smetana (A1, A3, A7)",
+          "image": "./images/product/pasta-60-pulcinella.png",
+          "url": "https://www.pizza-capone.cz/fusilli/pulcinella/",
+          "price": "179 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        },
+        {
+          "name": "100 - Italia",
+          "description": "kuřecí maso, sušená rajčata, česnek, směs strouhaných tvrdých sýrů (A1, A3, A7)",
+          "image": "./images/product/pasta-100-italia.png",
+          "url": "https://www.pizza-capone.cz/fusilli/italia/",
+          "price": "179 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        }
+      ]
+    },
+    {
+      "name": "Lasagne",
+      "image": "./images/category/lasagne.gif",
+      "url": "https://www.pizza-capone.cz/lasagne/",
+      "products": [
+        {
+          "name": "99 - Bolognese",
+          "description": "Lasagne s Boloňskou omáčkou. Připraveno z pravého italského domácího těsta. (A1, A3, A7, A9)",
+          "image": "./images/product/lasagne-99-bolognese.png",
+          "url": "https://www.pizza-capone.cz/lasagne/bolognese/",
+          "price": "219 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7, A9"
+        }
+      ]
+    },
+    {
+      "name": "Speciality",
+      "image": "./images/category/speciality.gif",
+      "url": "https://www.pizza-capone.cz/speciality/",
+      "products": [
+        {
+          "name": "71 - Pane",
+          "description": "cappone chléb - bochánky z pizzového těsta - 6 ks (A1)",
+          "image": "./images/product/speciality-71-pane.png",
+          "url": "https://www.pizza-capone.cz/speciality/pane/",
+          "price": "89 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1"
+        },
+        {
+          "name": "72 - Cappone Pane",
+          "description": "cappone chléb - bochánky z pizzového těsta, sýrovo-česneková pomazánka - 6 ks (A1, A3, A7)",
+          "image": "./images/product/speciality-72-cappone-pane.png",
+          "url": "https://www.pizza-capone.cz/speciality/cappone-pane/",
+          "price": "129 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7"
+        }
+      ]
+    },
+    {
+      "name": "Dezerty",
+      "image": "./images/category/dezerty.gif",
+      "url": "https://www.pizza-capone.cz/dezerty/",
+      "products": [
+        {
+          "name": "86 - Medovník",
+          "description": "Medovník je lahodný medový dort vytvořený podle staroslovanské receptury. (A1, A3, A7, A8)",
+          "image": "./images/product/dezerty-86-medovnik.png",
+          "url": "https://www.pizza-capone.cz/medovnik/",
+          "price": "89 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A7, A8"
+        },
+        {
+          "name": "87 - Tiramisu",
+          "description": "vychlazený, čerstvý italský dezert, který když jednou ochutnáte, zanechá ve vás nesmazatelný dojem (A1, A3, A8)",
+          "image": "./images/product/dezerty-87-tiramisu.png",
+          "url": "https://www.pizza-capone.cz/dezerty/tiramisu/",
+          "price": "89 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": "A1, A3, A8"
         }
       ]
     },
@@ -225,6 +7141,578 @@
           ],
           "sauces": [],
           "attributes": "A3, A7, A10"
+        },
+        {
+          "name": "80 - Nizza",
+          "description": "čínské zelí, rajčata, cibule, tuňák, olivy",
+          "image": "./images/product/salaty-80-nizza.gif",
+          "url": "https://www.pizza-capone.cz/salaty/nizza/",
+          "price": "139 Kč",
+          "sizes": {},
+          "ingredients": [
+            {
+              "name": "Italský dresing",
+              "price": "20 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "81 - Italia",
+          "description": "čínské zelí, okurky, rajčata, šunka, sýr (A7)",
+          "image": "./images/product/salaty-81-italia.gif",
+          "url": "https://www.pizza-capone.cz/salaty/italia/",
+          "price": "129 Kč",
+          "sizes": {},
+          "ingredients": [
+            {
+              "name": "Italský dresing",
+              "price": "20 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A7"
+        },
+        {
+          "name": "84 - Mozzarela",
+          "description": "čínské zelí, rajčata, olivy, mozzarela, olivový olej (A7)",
+          "image": "./images/product/salaty-84-mozzarela.gif",
+          "url": "https://www.pizza-capone.cz/salaty/mozzarela/",
+          "price": "129 Kč",
+          "sizes": {},
+          "ingredients": [
+            {
+              "name": "Italský dresing",
+              "price": "20 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A7"
+        },
+        {
+          "name": "85 - Šopský",
+          "description": "rajčata, papriky, okurky, balkánský sýr (A7)",
+          "image": "./images/product/salaty-85-sopsky.gif",
+          "url": "https://www.pizza-capone.cz/salaty/sopsky/",
+          "price": "129 Kč",
+          "sizes": {},
+          "ingredients": [
+            {
+              "name": "Italský dresing",
+              "price": "20 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A7"
+        },
+        {
+          "name": "101 - Caprese",
+          "description": "rajčata, mozzarella, bazalka, olivový olej (A7)",
+          "image": "./images/product/salaty-101-caprese.gif",
+          "url": "https://www.pizza-capone.cz/salaty/caprese/",
+          "price": "129 Kč",
+          "sizes": {},
+          "ingredients": [
+            {
+              "name": "Italský dresing",
+              "price": "20 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": "A7"
+        }
+      ]
+    },
+    {
+      "name": "Vegan Pizza",
+      "image": "./images/category/vegan-pizza.gif",
+      "url": "https://www.pizza-capone.cz/vegan-pizza/",
+      "products": [
+        {
+          "name": "1001 - Vegan Funghi",
+          "description": "Vegan Line, žampiony",
+          "image": "./images/product/vegan-pizza-1001-vegan-funghi.png",
+          "url": "https://www.pizza-capone.cz/vegan-funghi/",
+          "price": "179 Kč",
+          "sizes": {
+            "Ø 30 cm": "179 Kč",
+            "Ø 45 cm": "301 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "1002 - Vegan Pomodoro",
+          "description": "Vegan Line, rajčata, cibule",
+          "image": "./images/product/vegan-pizza-1002-vegan-pomodoro.png",
+          "url": "https://www.pizza-capone.cz/vegan-pomodoro/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "301 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "1003 - Vegan Spinachi",
+          "description": "Vegan Line, česnek, špenát, cibule",
+          "image": "./images/product/vegan-pizza-1003-vegan-spinachi.png",
+          "url": "https://www.pizza-capone.cz/vegan-spinachi/",
+          "price": "189 Kč",
+          "sizes": {
+            "Ø 30 cm": "189 Kč",
+            "Ø 45 cm": "311 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "1004 - Vegan Chef",
+          "description": "Vegan Line, rajčata, paprika, kukuřice, olivy",
+          "image": "./images/product/vegan-pizza-1004-vegan-chef.png",
+          "url": "https://www.pizza-capone.cz/vegan-chef/",
+          "price": "199 Kč",
+          "sizes": {
+            "Ø 30 cm": "199 Kč",
+            "Ø 45 cm": "321 Kč"
+          },
+          "ingredients": [
+            {
+              "name": "veganský sýr",
+              "price": "79 Kč"
+            },
+            {
+              "name": "feferóny",
+              "price": "35 Kč"
+            },
+            {
+              "name": "žampiony",
+              "price": "30 Kč"
+            },
+            {
+              "name": "cibule",
+              "price": "15 Kč"
+            },
+            {
+              "name": "paprika",
+              "price": "15 Kč"
+            },
+            {
+              "name": "ananas",
+              "price": "35 Kč"
+            },
+            {
+              "name": "olivy",
+              "price": "45 Kč"
+            },
+            {
+              "name": "rajčata",
+              "price": "20 Kč"
+            },
+            {
+              "name": "česnek",
+              "price": "15 Kč"
+            },
+            {
+              "name": "špenát",
+              "price": "35 Kč"
+            },
+            {
+              "name": "bazalka",
+              "price": "10 Kč"
+            },
+            {
+              "name": "kukuřice",
+              "price": "25 Kč"
+            },
+            {
+              "name": "chilli",
+              "price": "10 Kč"
+            },
+            {
+              "name": "oregáno",
+              "price": "10 Kč"
+            }
+          ],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "1005 - Gnocchi Pomodoro",
+          "description": "sugo, cherry rajčátka, česnek",
+          "image": "./images/product/vegan-pizza-1005-gnocchi-pomodoro.png",
+          "url": "https://www.pizza-capone.cz/gnocchi-pomodoro/",
+          "price": "179 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "name": "Nápoje",
+      "image": "./images/category/napoje.gif",
+      "url": "https://www.pizza-capone.cz/napoje/",
+      "products": [
+        {
+          "name": "210 - Coca Cola",
+          "description": "1l",
+          "image": "./images/product/napoje-210-coca-cola.gif",
+          "url": "https://www.pizza-capone.cz/napoje/coca-cola/",
+          "price": "49 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "211 - Fanta",
+          "description": "1l",
+          "image": "./images/product/napoje-211-fanta.gif",
+          "url": "https://www.pizza-capone.cz/napoje/fanta/",
+          "price": "49 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "212 - Sprite",
+          "description": "1l",
+          "image": "./images/product/napoje-212-sprite.gif",
+          "url": "https://www.pizza-capone.cz/napoje/sprite/",
+          "price": "49 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "231 - Pivo dle nabídky",
+          "description": "0,33l - Prodej pouze osobám starším 18 let!",
+          "image": "./images/product/napoje-231-pivo-dle-nabidky.gif",
+          "url": "https://www.pizza-capone.cz/napoje/pivo-plzen/",
+          "price": "39 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "240 - Lambrusco červené",
+          "description": "1,5l - Prodej pouze osobám starším 18 let!",
+          "image": "./images/product/napoje-240-lambrusco-cervene.gif",
+          "url": "https://www.pizza-capone.cz/napoje/lambrusco-cervene-1-5-l/",
+          "price": "280 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "241 - Lambrusco červené",
+          "description": "0,7l - Prodej pouze osobám starším 18 let!",
+          "image": "./images/product/napoje-241-lambrusco-cervene.gif",
+          "url": "https://www.pizza-capone.cz/napoje/lambrusco-cervene-0-7-l/",
+          "price": "150 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "242 - Lambrusco bílé",
+          "description": "0,7l - Prodej pouze osobám starším 18 let!",
+          "image": "./images/product/napoje-242-lambrusco-bile.gif",
+          "url": "https://www.pizza-capone.cz/napoje/lambrusco-bile/",
+          "price": "150 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "243 - Bohemia Sekt Demi",
+          "description": "0,75l - Prodej pouze osobám starším 18 let!",
+          "image": "./images/product/napoje-243-bohemia-sekt-demi.gif",
+          "url": "https://www.pizza-capone.cz/napoje/bohemia-sekt-demi/",
+          "price": "250 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "244 - Bohemia Sekt Brut",
+          "description": "0,75l - Prodej pouze osobám starším 18 let!",
+          "image": "./images/product/napoje-244-bohemia-sekt-brut.gif",
+          "url": "https://www.pizza-capone.cz/napoje/bohemia-sekt-brut/",
+          "price": "250 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "250 - Bílé víno - dle aktuální nabídky",
+          "description": "Bílé víno 0,7l. Prodej pouze osobám starším 18 let!",
+          "image": "./images/product/napoje-250-bile-vino-dle-aktualni-nabidky.png",
+          "url": "https://www.pizza-capone.cz/napoje/bile-vino-tramin-cerveny/",
+          "price": "250 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "251 - Červené víno - dle aktuální nabídky",
+          "description": "Červené víno 0,7l. Prodej pouze osobám starším 18 let!",
+          "image": "./images/product/napoje-251-cervene-vino-dle-aktualni-nabidky.png",
+          "url": "https://www.pizza-capone.cz/napoje/bile-vino-neuburske/",
+          "price": "250 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        }
+      ]
+    },
+    {
+      "name": "Zmrzlina Gelato!",
+      "image": "./images/category/zmrzlina-gelato.gif",
+      "url": "https://www.pizza-capone.cz/gelato/",
+      "products": [
+        {
+          "name": "901 - Gelato! čokoláda",
+          "description": "",
+          "image": "./images/product/zmrzlina-gelato-901-gelato-cokolada.png",
+          "url": "https://www.pizza-capone.cz/gelato/cokolada/",
+          "price": "115 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "902 - Gelato! vanilka",
+          "description": "",
+          "image": "./images/product/zmrzlina-gelato-902-gelato-vanilka.png",
+          "url": "https://www.pizza-capone.cz/gelato/vanilka/",
+          "price": "115 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "903 - Gelato! slaný karamel",
+          "description": "",
+          "image": "./images/product/zmrzlina-gelato-903-gelato-slany-karamel.png",
+          "url": "https://www.pizza-capone.cz/gelato/slany-karamel/",
+          "price": "115 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "904 - Gelato! mango",
+          "description": "",
+          "image": "./images/product/zmrzlina-gelato-904-gelato-mango.png",
+          "url": "https://www.pizza-capone.cz/gelato/mango/",
+          "price": "115 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
+        },
+        {
+          "name": "905 - Gelato! jahoda",
+          "description": "",
+          "image": "./images/product/zmrzlina-gelato-905-gelato-jahoda.png",
+          "url": "https://www.pizza-capone.cz/gelato/jahoda/",
+          "price": "115 Kč",
+          "sizes": {},
+          "ingredients": [],
+          "sauces": [],
+          "attributes": ""
         }
       ]
     }
