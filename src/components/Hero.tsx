@@ -74,7 +74,7 @@ export const Hero: React.FC = () => {
             </span>
           </h2>
 
-          <p className="text-lg text-amber-200 mb-8 leading-relaxed max-w-2xl mx-auto lg:mx-0 bg-amber-900/10 p-4 rounded-lg bborder-l-4 border-yellow-400">
+          <p className="text-lg text-amber-200 mb-8 leading-relaxed max-w-2xl mx-auto lg:mx-0 bg-amber-900/10 p-4 rounded-lg">
             Autentická italská kuchyně od roku 1999. Lahodné pokrmy z čerstvých
             surovin, které nemůžete odmítnout.
           </p>

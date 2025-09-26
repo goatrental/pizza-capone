@@ -35,8 +35,13 @@ export const Header: React.FC = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <div className="cursor-pointer" onClick={() => scrollToSection('home')}>
-            <h1 className="font-serif text-2xl font-black text-yellow-400 tracking-wide drop-shadow-lg">
-              Pizza Capone
+            <h1 className="text-2xl font-black text-yellow-400 tracking-wider drop-shadow-lg">
+              <span className="font-serif font-black tracking-tight" style={{ letterSpacing: '-0.03em', fontFamily: "'Playfair Display', serif" }}>
+                PIZZA
+              </span>
+              <span className="ml-1" style={{ fontFamily: "'Dancing Script', cursive", fontWeight: '700', fontSize: '1.3em' }}>
+                Capone
+              </span>
             </h1>
             <span className="text-xs text-amber-300 italic block -mt-1">Est. 1999</span>
           </div>

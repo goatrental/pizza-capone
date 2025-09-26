@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         serif: ['Playfair Display', 'serif'],
         sans: ['Inter', 'sans-serif'],
+        mafia: ['Cinzel', 'serif'],
       },
       colors: {
         cream: '#f5f5dc',
