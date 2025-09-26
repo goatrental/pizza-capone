@@ -1,23 +1,28 @@
-import React from 'react';
-import { ProductWithCategory } from '../types/menu';
+import React from "react";
+import { ProductWithCategory } from "../types/menu";
 
 interface MenuItemProps {
   product: ProductWithCategory;
+  searchTerm?: string;
   onClick: () => void;
 }
 
-export const MenuItem: React.FC<MenuItemProps> = ({ product, onClick }) => {
+export const MenuItem: React.FC<MenuItemProps> = ({
+  product,
+  searchTerm = "",
+  onClick,
+}) => {
   const extractPrice = (priceString: string): string => {
-    if (!priceString) return '0 Kč';
+    if (!priceString) return "0 Kč";
     return priceString;
   };
 
-  const highlightText = (text: string, searchTerm: string): React.ReactNode => {
-    if (!searchTerm) return text;
-    
-    const parts = text.split(new RegExp(`(${searchTerm})`, 'gi'));
-    return parts.map((part, index) => 
-      part.toLowerCase() === searchTerm.toLowerCase() ? (
+  const highlightText = (text: string, term: string): React.ReactNode => {
+    if (!term) return text;
+
+    const parts = text.split(new RegExp(`(${term})`, "gi"));
+    return parts.map((part, index) =>
+      part.toLowerCase() === term.toLowerCase() ? (
         <mark key={index} className="bg-yellow-400 text-zinc-900 px-1 rounded">
           {part}
         </mark>
@@ -26,9 +31,6 @@ export const MenuItem: React.FC<MenuItemProps> = ({ product, onClick }) => {
       )
     );
   };
-
-  const searchParams = new URLSearchParams(window.location.search);
-  const searchTerm = searchParams.get('search') || '';
 
   return (
     <div
