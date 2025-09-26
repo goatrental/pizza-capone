@@ -35,7 +35,7 @@ export const Header: React.FC = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <div className="cursor-pointer" onClick={() => scrollToSection('home')}>
-            <h1 className="font-serif text-2xl font-black text-yellow-400 tracking-wide drop-shadow-lg">
+            <h1 className="font-mafia text-2xl font-black text-yellow-400 tracking-wider drop-shadow-lg">
               Pizza Capone
             </h1>
             <span className="text-xs text-amber-300 italic block -mt-1">Est. 1999</span>
